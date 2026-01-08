@@ -1,0 +1,42 @@
+# Ignoring all these to create docker image.
+
+# Ignore the virtual environment
+.venv/
+venv/
+
+# Ignore python compiled files
+__pycache__/
+*.pyc
+
+# Ignore the local database (optional, but recommended for security)
+db.sqlite3
+
+# Ignore OS generated files
+.DS_Store
+
+payEase/owner/__pycache__/
+
+payEase/tenant/__pycache__/
+
+# Ignore Tailwind files, we can directly install
+theme/
+
+# Ignore owner migrations
+payEase/owner/migrations/
+
+# Ignore tenant migrations
+payEase/tenant/migrations/
+
+# Ignore images
+payEase/media 
+
+#Ignore settings
+payEase/payEase/settings.py
+
+# Ignore git
+.git
+.gitignore
+
+# Ignore Dockerfile
+Dockerfile
+docker-compose.yml
