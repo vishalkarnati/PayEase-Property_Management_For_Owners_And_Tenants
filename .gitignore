@@ -16,17 +16,17 @@ payEase/owner/__pycache__/
 
 payEase/tenant/__pycache__/
 
-# Ignore Tailwind files, we can directly install
-theme/
+# Ignore Tailwind files
+backend/theme/static_src/node_modules/
 
 # Ignore owner migrations
-payEase/owner/migrations/
+# (Removed to allow migrations to be pushed)
 
 # Ignore tenant migrations
-payEase/tenant/migrations/
+# (Removed to allow migrations to be pushed)
 
 # Ignore images
-payEase/media 
+backend/media/
 
 #Ignore settings
-payEase/payEase/settings.py
+# (Removed so settings.py can be pushed)
