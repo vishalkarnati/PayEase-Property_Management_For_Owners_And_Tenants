@@ -30,3 +30,5 @@ backend/media/
 
 #Ignore settings
 # (Removed so settings.py can be pushed)
+
+.env
