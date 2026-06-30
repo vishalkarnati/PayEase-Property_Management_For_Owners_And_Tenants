@@ -1,7 +1,6 @@
 # Property Management for Owners & Tenants
-🚀 **Live Demo:** https://payease-web.onrender.com
+🚀 **Live Demo:** https://payease-vishalkarnati.vercel.app
 
-*(Note: As this is hosted on a Render instance, it may take 20-30 seconds to spin up on the first visit.)*
 
 PayEase is a simple and efficient platform designed for building owners to manage buildings, flats, tenants, and payments in one place. It eliminates manual record-keeping and brings clarity, transparency, and convenience to both owners and tenants.
 
